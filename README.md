@@ -6,5 +6,5 @@ Microsoft-To-Do which can help you to add your daily tasks and mange it
 
 Members:
 
-1. Abd Alrahman ElSayed 
+1. Abd Alrahman El Sayed 
 2. Mahmoud Bahaa
